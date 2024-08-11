@@ -5,11 +5,11 @@ This project implements a deep learning-based approach for detecting whether a p
 YOLOv8 object detection model. The system is designed to assist in safety monitoring by identifying helmet usage in real-time video feeds.
 
 
-Demo
+Demo: 
 
 https://github.com/user-attachments/assets/2135f13c-fd33-456a-9175-8ea6ea6f2204
 
-Key Features
+# Key Features: 
 
 Real-Time Detection: Quickly and accurately detects helmets in images and video streams.
 
