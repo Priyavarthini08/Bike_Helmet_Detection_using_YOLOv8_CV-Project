@@ -9,12 +9,17 @@ Demo
 
 https://github.com/user-attachments/assets/2135f13c-fd33-456a-9175-8ea6ea6f2204
 
-Features
+Key Features
 
-Real-time helmet detection using YOLOv8.
-Supports both image and video input.
+Real-Time Detection: Quickly and accurately detects helmets in images and video streams.
+
+Robust Image Processing: Leveraging OpenCV for reliable detection under different lighting and environmental conditions.
+
+Pre-Trained YOLOv8 Model: Utilizes pre-trained weights and configuration files for efficient and precise detection.
+
 High accuracy and fast inference time.
-Easy to integrate into existing systems.
+
+
 
 
 
