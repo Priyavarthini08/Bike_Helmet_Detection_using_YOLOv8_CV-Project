@@ -2,7 +2,7 @@
 
 
 This project implements a deep learning-based approach for detecting whether a person is wearing a helmet while riding a bike using the 
-YOLOv8 object detection model. The system is designed to assist in safety monitoring by identifying helmet usage in real-time video feeds or images.
+YOLOv8 object detection model. The system is designed to assist in safety monitoring by identifying helmet usage in real-time video feeds.
 
 
 Demo
